@@ -12,7 +12,9 @@
 
 BreatheEasy AI is a web-based application designed to help users log asthma-related symptoms, lifestyle factors, and medication usage. It integrates with (mocked) environmental data and utilizes the Google Gemini API to provide a personalized asthma exacerbation risk assessment and actionable advice.
 
-**Live Demo Note:** This application is designed to be run locally or in an environment where the Google Gemini API key can be securely managed.
+---
+
+![BreatheEasy AI Screenshot](./pic.jpg)
 
 ---
 
