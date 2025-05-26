@@ -1,0 +1,5 @@
+{
+  "name": "BreatheEasy AI: Asthma Prediction Assistant",
+  "description": "A web application to help users log asthma-related data, view environmental conditions, and get an AI-powered risk assessment for potential asthma exacerbations. This app is for informational purposes and not a substitute for medical advice.",
+  "requestFramePermissions": []
+}
